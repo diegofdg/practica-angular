@@ -1,0 +1,13 @@
+.contenedor {
+    padding: 50px;
+    width: 50%;
+    text-align: center;
+}
+
+.titulo-tabla {    
+    padding-bottom: 20px;
+    text-decoration: underline;
+}
+.tabla {
+    margin-bottom: 30px;
+}
